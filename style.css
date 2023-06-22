@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(41, 205, 150);
+    text-align: center;
+}
+#camara{
+    width: 350px;
+    height: 300px;
+    border: black 2px dashed;
+    margin:  0 auto;
+}
